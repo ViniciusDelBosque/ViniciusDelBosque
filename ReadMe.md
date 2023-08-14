@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mim:
 🔭 Apaixonado em explorar esse vasto universo da programação<br>👨‍💻 Sou estudante de Front-End<br>📚 Estou em busca de novos ensinamentos<br>💬 Venha me conhecer me pergunte sobre<br>🚀 Apaixonado pelo potencial transformador da tecnologia na vida das pessoas, fui impulsionado a seguir carreira no mundo da tecnologia como Desenvolvedor
 
 
